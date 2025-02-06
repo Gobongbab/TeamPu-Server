@@ -48,7 +48,6 @@
 |--------------------|--------------------------------------|
 | **Server**          | GCP, GCS |
 | **CI / CD**          | Github Actions, K3S, JACOCO |
-| **Database**          | Flyway        |
 
 ## 👷 CI/CD Pipeline
 ![image](https://github.com/user-attachments/assets/b3b3f02e-d9f5-478a-afe5-0e01d1988e8b)
